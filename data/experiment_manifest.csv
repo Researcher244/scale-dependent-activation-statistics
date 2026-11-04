@@ -1,0 +1,12 @@
+experiment,budget_epochs,functions,runs,epoch_rows,seeds,results_file,epochs_file
+cifar10_bn30,60,35,175,10500,"42,43,44,45,46",data/results/cifar10_bn30.csv,data/epochs/cifar10_bn30.csv
+cifar10_bn40,60,35,175,10437,"42,43,44,45,46",data/results/cifar10_bn40.csv,data/epochs/cifar10_bn40.csv
+cifar10_nonorm15,60,35,175,9616,"42,43,44,45,46",data/results/cifar10_nonorm15.csv,data/epochs/cifar10_nonorm15.csv
+cifar10_resnet32,60,36,180,10800,"42,43,44,45,46",data/results/cifar10_resnet32.csv,data/epochs/cifar10_resnet32.csv
+fashionmnist_bn35,100,35,175,16346,"42,43,44,45,46",data/results/fashionmnist_bn35.csv,data/epochs/fashionmnist_bn35.csv
+fashionmnist_nonorm10,20,35,175,3483,"42,43,44,45,46",data/results/fashionmnist_nonorm10.csv,data/epochs/fashionmnist_nonorm10.csv
+mnist_bn10,20,35,175,3475,"42,43,44,45,46",data/results/mnist_bn10.csv,data/epochs/mnist_bn10.csv
+mnist_bn35,100,35,175,16371,"42,43,44,45,46",data/results/mnist_bn35.csv,data/epochs/mnist_bn35.csv
+mnist_bn35_init,100,8,80,7400,"42,43,44,45,46",data/results/mnist_bn35_init.csv,data/epochs/mnist_bn35_init.csv
+mnist_nonorm10,20,35,175,3480,"42,43,44,45,46",data/results/mnist_nonorm10.csv,data/epochs/mnist_nonorm10.csv
+mnist_nonorm15,100,35,175,14893,"42,43,44,45,46",data/results/mnist_nonorm15.csv,data/epochs/mnist_nonorm15.csv

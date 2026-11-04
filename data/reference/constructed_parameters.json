@@ -1,0 +1,119 @@
+{
+  "FixC1MatchSlopeAndRho": {
+    "beta": 1.0056290824,
+    "alpha": 0.2481362485,
+    "b": -0.6108569031
+  },
+  "FixC1FixRhoMatchSlope": {
+    "beta": 1.0655913532,
+    "alpha": 0.2647998861,
+    "b": -0.6847583639
+  },
+  "FixC1FixSlopeMatchRho": {
+    "beta": 0.9579116739,
+    "alpha": 0.0,
+    "b": 0.0
+  },
+  "FixRhoMatchC1AndSlope": {
+    "beta": 2.5097657107,
+    "alpha": -0.3622986508,
+    "b": 3.239628968
+  },
+  "FixRhoFixSlopeMatchC1": {
+    "beta": 3.6454545499,
+    "alpha": -0.4959679749,
+    "b": 5.5094463356
+  },
+  "FixSlopeMatchC1AndRho": {
+    "beta": 3.2799942834,
+    "alpha": -0.4929381821,
+    "b": 4.9459659006
+  },
+  "FixSlopeandC1HighRho": {
+    "beta": 0.5,
+    "alpha": 0.0,
+    "b": 0.0
+  },
+  "FixSlopeandC1LowRho": {
+    "beta": 2.0,
+    "alpha": 0.0,
+    "b": 0.0
+  },
+  "MatchAllToMish": {
+    "beta": 2.0996330505,
+    "alpha": -0.3271993629,
+    "b": 2.5444438979
+  },
+  "BandHigh": {
+    "beta": 1.20680028,
+    "b": 0.04461946,
+    "alpha": 0.16568067,
+    "gamma": -0.07683369
+  },
+  "BandLow": {
+    "beta": 3.09266783,
+    "b": 4.56834656,
+    "alpha": -0.47355169,
+    "gamma": 0.08382025
+  },
+  "GentleTiltDown09": {
+    "beta": 1.3212061309,
+    "b": 0.6706517594,
+    "alpha": -0.0277762821,
+    "gamma": -0.1265
+  },
+  "ScaledSwish": {
+    "scale": 1.4
+  },
+  "HighBandSwish": {
+    "beta": -1.0559,
+    "b": -0.5061,
+    "alpha": 0.1947,
+    "gamma": -0.0708
+  },
+  "LowBandSwish": {
+    "beta": -1.0127,
+    "b": 0.4625,
+    "alpha": -0.1843,
+    "gamma": 0.0707
+  },
+  "SetD5_HighA_LowGamma": {
+    "beta": 0.25,
+    "b": 1.6646126199,
+    "alpha": -0.2443422477,
+    "eta": -0.015827546
+  },
+  "ScaledSwishhalf": {
+    "scale": 0.5
+  },
+  "SetD1_LowA_HighGamma": {
+    "beta": 0.4949478828,
+    "b": -0.413756283,
+    "alpha": 0.0388663503,
+    "eta": 0.0027885451
+  },
+  "SetD2_LowA_LowGamma": {
+    "beta": 0.42081386,
+    "b": 0.48359119,
+    "alpha": -0.18791026,
+    "eta": -0.00805122
+  },
+  "SetD3_MidA_LowGamma": {
+    "beta": 0.3093398248,
+    "b": 1.0044482442,
+    "alpha": -0.223628617,
+    "eta": -0.0137558189
+  },
+  "SetD4_MidA_HighGamma": {
+    "beta": 0.916394602,
+    "b": 0.0436458135,
+    "alpha": 0.0264917301,
+    "eta": 0.0022294333
+  },
+  "SetD6_HighA_HighGamma": {
+    "beta": 0.3558473158,
+    "b": 1.1158205221,
+    "alpha": -0.1377719114,
+    "eta": -0.009294866
+  }
+}
